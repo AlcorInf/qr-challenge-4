@@ -1,6 +1,6 @@
-## practice_repo4
+## qr-challenge-4
 ### How to Contribute
 For contributing, please refer to ```CONTRIBUTING.md```
 
-### Contributors:
+### Winners:
 1. (Add Name Here)
